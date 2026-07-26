@@ -2,6 +2,8 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
+[![show-directory](https://github.com/gybins/hexlet-ci-app/actions/workflows/makefile.yml/badge.svg)](https://github.com/gybins/hexlet-ci-app/actions/workflows/makefile.yml)
+
 ## System requirements
 
 * NodeJS >= 26
